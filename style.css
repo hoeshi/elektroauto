@@ -1,0 +1,106 @@
+h1 {
+	margin: auto;
+	background-image: url("../img/car4.jpg");
+	color: #92D9FC;
+	font-weight: 1;
+	text-align: center;
+	font-size: 500%;
+	border: medium;
+	background-size: cover;
+	text-shadow: 
+		-1px -1px 0 #000,
+    	1px -1px 0 #000,
+    	-1px 1px 0 #000,
+    	1px 1px 0 #000;
+	outline-style: auto;
+	outline-color: black;
+	background-attachment: fixed;
+	height: 300px;
+	background-repeat: no-repeat;
+	
+}
+nav {
+	text-align: center;
+	overflow: hidden;
+	
+}
+li{
+	float:left;
+}
+a {
+	display: block;
+	padding: 8px;
+	background: url("../img/button.jpg");
+	outline-style: auto;
+	outline-color: black;
+	
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background: url("../img/button.jpg");
+	outline-style: auto;
+	
+}
+
+li a:hover{ 
+	background: url("../img/buttonactive.jpg");
+	background-size: cover;
+}
+
+.container {
+	background: url("../img/body.jpg");
+	outline-style: auto;
+	background-size: cover;
+}
+
+body {
+	background: url("../img/background.jpg");
+  	background-size: cover
+		
+}
+
+h2 {
+	font-size: 50px;
+	color: #363636;
+	padding-left: 10px;
+}
+.active {
+	background: url("../img/buttonactivesite.jpg");
+}
+
+main {
+	color: black;
+	font-size: 20px;
+}
+
+footer  {
+	background: url("../img/body.jpg");
+	outline-style: auto;
+	background-size: cover;
+}
+
+p {
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
+.marktentwicklung {
+	padding-left: 20px;
+	
+}
+.bildbeschreibung {
+	padding-left: 20px;
+}
